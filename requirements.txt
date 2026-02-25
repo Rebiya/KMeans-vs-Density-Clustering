@@ -1,0 +1,7 @@
+numpy
+matplotlib
+pandas
+seaborn
+scipy
+# to preprocess data only
+scikit-learn
